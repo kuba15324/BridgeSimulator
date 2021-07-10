@@ -1,0 +1,2 @@
+# BridgeSimulator
+Program został napisany na laboratorium z języków programowania. Zadanie polegało na utworzeniu aplikacji wielowątkowej z synchronizacją symulującej wąski most, przez który starają się przejeżdżać pojazdy, ale jedynie kilka z nich może jednocześnie korzystać z tego mostu. Dostępnych jest kilka opcji symulacji (parametry ustawia użytkownik w trakcie trwania symulacji). Dodatkowo, jako zadanie "Dla ambitnych", została utworzona animacja pokazująca przebieg tej symulacji.
